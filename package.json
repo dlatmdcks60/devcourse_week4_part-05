@@ -1,0 +1,14 @@
+{
+  "name": "part_05",
+  "version": "1.0.0",
+  "description": "### *학습 내용* & *실습* #### `Map` forEach ```js db.forEach((value) => {}); ``` ✨ forEach()를 사용하여 Map의 데이터를 하나씩 꺼내볼 수 있다. #### `Map` Json 맵핑 ```js let jsonObject = {};",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
